@@ -90,10 +90,10 @@ Qui vous l'a donnée ?
 > 💬 **Votre réponse :**
 >
 > DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 8
-  DHCPOFFER of 172.20.1.167 from 172.20.1.2
-  DHCPREQUEST for 172.20.1.167 on eth0 to 255.255.255.255 port 67
-  DHCPACK of 172.20.1.167 from 172.20.1.2
-  bound to 172.20.1.167 -- renewal in 19254 seconds.
+> DHCPOFFER of 172.20.1.167 from 172.20.1.2
+> DHCPREQUEST for 172.20.1.167 on eth0 to 255.255.255.255 port 67
+> DHCPACK of 172.20.1.167 from 172.20.1.2
+> bound to 172.20.1.167 -- renewal in 19254 seconds.
 >
 > C'est l'adresse 172.20.1.167 que j'ai obtenue, c'est le DHCP qui me l'a donné.
 
