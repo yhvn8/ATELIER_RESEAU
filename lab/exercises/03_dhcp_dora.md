@@ -47,7 +47,7 @@ ping -c 2 172.20.1.254
 
 > 💬 **Votre réponse :**
 >
-> _Remplacez ce texte par votre réponse._
+>  Network is unreachable. Nous ne pouvons plus rien envoyer car nous n'avons plus d'adresse fourni par le DHCP.
 
 ---
 
